@@ -1,0 +1,3 @@
+[submodule "nortal-screenly"]
+	path = nortal-screenly
+	url = https://github.com/nortal/screenly
